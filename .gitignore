@@ -1,0 +1,12 @@
+myenv/
+.venv/
+__pycache__/
+*.pyc
+.env
+expenses.db
+SmartExpenseVisualizer_Portable.zip
+reports/
+data/expenses.csv
+data/expenses.xlsx
+ocr_debug_output.txt
+test_ocr_key.py
